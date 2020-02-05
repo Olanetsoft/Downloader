@@ -1,7 +1,7 @@
 {
-  "name": "you-tube-downloader",
+  "name": "downloader",
   "version": "1.0.0",
-  "description": "youtube downloader",
+  "description": "downloader",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
