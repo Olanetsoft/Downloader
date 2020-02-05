@@ -1,0 +1,19 @@
+{
+  "name": "you-tube-downloader",
+  "version": "1.0.0",
+  "description": "youtube downloader",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olanetsoft/You-Tube-Downloader.git"
+  },
+  "author": "Idris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Olanetsoft/You-Tube-Downloader/issues"
+  },
+  "homepage": "https://github.com/Olanetsoft/You-Tube-Downloader#readme"
+}
